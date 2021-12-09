@@ -9,7 +9,7 @@
 
 * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy, if this happens, please forgive me, I'm very sorry about that.
 * has extreme admiration for technology and science developed in the early years eventually led into my favorite field
-* is Extreme Annecy advocates
+* is Extreme Annecy advocate
 * Respect and protect the voice of other values, and expect others to respect and protect my voice
 * is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈
 * is learning IOT security
