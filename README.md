@@ -1,4 +1,9 @@
-### Hi there 👋
+### 有一个黑色的童年，写了三十万字，会时不时踩到奇怪的雷然后开始发疯，发生这种事情的话，求原谅，非常抱歉
+### 早年形成的对技术和科学的极端崇拜最终走进了自己最喜欢的领域
+### 是极端的安那其拥护者
+### 尊重并保护其他价值观的话语权，并希望其他价值观的人能尊重并保护我的话语权
+### 是性别未定的TS，性取向也未定
+### IOT安全学习中
 
 <!--
 **KSroido/KSroido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
