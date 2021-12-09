@@ -4,6 +4,18 @@
 ### 尊重并保护其他价值观的话语权，并希望其他价值观的人能尊重并保护我的话语权
 ### 是性别未定的TS，性取向也未定🏳️‍⚧️ 🏳️‍🌈
 ### IOT安全学习中
+### 会点音乐
+
+
+### has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy, if this happens, please forgive me, I'm very sorry about that.
+### has extreme admiration for technology and science developed in the early years eventually led into my favorite field
+### is Extreme Annecy advocates
+### Respect and protect the voice of other values, and expect others to respect and protect my voice
+### is transgender with undetermined gender and undetermined sexual orientation
+### is learning IOT security
+### has some musical skills
+
+
 
 <!--
 **KSroido/KSroido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
