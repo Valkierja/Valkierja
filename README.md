@@ -3,8 +3,9 @@
 * 是极端的安那其拥护者
 * 会自发尊重并保护其他价值观的话语权，并希望其他价值观的人能尊重并保护我的话语权
 * 是性别未定的TS，性取向也未定🏳️‍⚧️ 🏳️‍🌈
-* IOT安全学习中
+* IoT安全学习中
 * 会点音乐
+* 会点语言学和词源考据
 
 ------
 * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by chance, if this happens, please forgive me, I'm very sorry about that.
@@ -12,8 +13,9 @@
 * is Extreme Annecy advocate
 * Spontaneously Respect and protect the voice of other values, and expect others to respect and protect my voice
 * is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈
-* is learning IOT security
+* is learning IoT security
 * has some musical skills
+* has some linguistic and etymology knowledge
 
 
 
