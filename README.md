@@ -11,7 +11,7 @@ I was a music developer, now I'am a program developer.
 * is Extreme Annecy advocate
 * Spontaneously Respect and protect the voice of other values, and expect others to respect and protect my voice
 * is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈
-* is learning IoT security
+* is learning IoT security and penetration
 * has some musical skills
 * has some linguistic and etymology knowledge
 
