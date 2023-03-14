@@ -25,4 +25,4 @@ I was a music developer, now I'am a program developer.
 
 ## Some info
 
-![Visited By](https://count.getloli.com/get/@Valkierja?theme=gelbooru)
+<!-- ![Visited By](https://count.getloli.com/get/@Valkierja?theme=gelbooru) -->
