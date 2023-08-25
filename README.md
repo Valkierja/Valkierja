@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true&icon_color=0366d6&text_color=ffffff&bg_color=000000&hide_title=true" />
 
-I was a music developer, now I'am a program developer.
+I was a composer, now I'am a game developer.
 
 ## 💬 Complex Life
 
