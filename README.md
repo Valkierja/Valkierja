@@ -8,7 +8,7 @@ I was a music developer, now I'am a program developer.
 
 <!-- * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by incident, if this happens, please forgive me, I'm very sorry about that. -->
 * has extreme admiration for technology and science which is developed in the early years and eventually led into my favorite field, cyberSecurity
-* is Extreme Annecy advocate
+* is Extreme Anarchism advocate
 * Spontaneously Respect and protect the voice of other values, and expect others to respect and protect my voice
 * is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈
 * is learning IoT security and penetration
