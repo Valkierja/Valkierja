@@ -11,7 +11,7 @@ I was a composer, now I'am a game developer.
 * is Extreme Anarchism advocate
 * Spontaneously Respect and protect the voice of other values, and expect others to respect and protect my voice
 * is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈
-* is learning IoT security and penetration
+* is learning IoT security, penetration and UE5 developing
 * is programming a small Game Demo
 * has some musical skills
 * has some linguistic and etymology knowledge
