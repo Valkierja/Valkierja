@@ -21,7 +21,7 @@ I was a composer, now I'am a game developer.
 ## 📮 How to reach me
 
 -  [Email](mailto:ksxmyqj@gmail.com)
--  [Linkedin](https://www.linkedin.com/in/jinglong-xie-33b747236/) (Linkedin China closed)
+-  [Linkedin](https://www.linkedin.com/in/jinglong-xie-33b747236/) (Linkedin China has been closed) 
 
 ## Some info
 
