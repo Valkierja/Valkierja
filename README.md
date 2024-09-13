@@ -16,6 +16,7 @@ I was a composer, now I'am a game developer.
 * is programming a small Game Demo
 * has some musical skills
 * has some linguistic and etymology knowledge
+* looking forward JP exchange program
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkierja&layout=compact&bg_color=000000&text_color=ffffff"/>
 
