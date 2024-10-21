@@ -1,8 +1,18 @@
 # 👋 Hey!
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true" align=right />
+</picture>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true&icon_color=0366d6&text_color=ffffff&bg_color=000000&hide_title=true" />
 
-I was a composer, now I'am a game developer.
+I'm a composer, game developer and a haker
 
 ## 💬 Complex Life
 
@@ -16,7 +26,7 @@ I was a composer, now I'am a game developer.
 * is programming a small Game Demo
 * has some musical skills
 * has some linguistic and etymology knowledge
-* looking forward JP exchange program
+* looking forward JP remote/in-site
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkierja&layout=compact&bg_color=000000&text_color=ffffff"/>
 
