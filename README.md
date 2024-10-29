@@ -1,4 +1,3 @@
-# 👋 Hey!
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true&theme=dark"
@@ -11,6 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true" align=right />
 </picture>
 
+# 👋 Hey!
 
 I'm a composer, game developer and a haker
 
