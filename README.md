@@ -12,7 +12,9 @@
 
 # 👋 Hey!
 
-I'm a composer, game developer and a haker
+I'm a composer, game developer and a haker. Here is my personality tag
+
+
 
 ## 💬 Complex Life
 
