@@ -1,14 +1,14 @@
 # 👋 Hey!
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Valkierja&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true" align=right />
 </picture>
 
 
@@ -28,7 +28,7 @@ I'm a composer, game developer and a haker
 * has some linguistic and etymology knowledge
 * looking forward JP remote/in-site
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkierja&layout=compact&bg_color=000000&text_color=ffffff"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSroido&layout=compact&bg_color=000000&text_color=ffffff"/>
 
 ## 📮 How to reach me
 
