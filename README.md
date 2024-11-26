@@ -1,4 +1,4 @@
-[![](https://ossrank.com/widget/978085)](https://ossrank.com/c/978085)
+<img alt="Github Profile Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=ksroido">
 
 # 👋 Hey!
 
