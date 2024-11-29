@@ -25,7 +25,7 @@ I'm a composer, game developer and a haker. Here is my personality tag
 ## 📮 How to reach me
 
 -  [Email](mailto:ksroido@linux.com)
--  [Linkedin](https://www.linkedin.com/in/jinglong-xie-33b747236/) (Linkedin China has been closed) 
+-  [Linkedin](https://www.linkedin.com/in/jinglong-xie-33b747236/) (Linkedin China has been shutdowned) 
 
 ## Some info
 
