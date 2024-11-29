@@ -18,7 +18,7 @@ I'm a composer, game developer and a haker. Here is my personality tag
 * is programming a small Game Demo
 * has some musical skills
 * has some linguistic and etymology knowledge
-* looking forward JP remote/in-site
+* looking forward JP remote/in-site Job
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSroido&layout=compact&bg_color=000000&text_color=ffffff"/>
 
