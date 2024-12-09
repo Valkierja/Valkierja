@@ -29,4 +29,6 @@ I'm a composer, game developer and a haker. Here is my personality tag
 
 ## Some info
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ![Visited By](https://count.getloli.com/get/@Valkierja?theme=gelbooru) -->
