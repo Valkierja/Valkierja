@@ -9,7 +9,7 @@ I'm a composer, game developer and a haker. Here is my personality tag
 ## 💬 Complex Life
 
 <!-- * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by incident, if this happens, please forgive me, I'm very sorry about that. -->
-* has extreme admiration for technology and science which is developed in the early years and eventually led into my favorite field, CyberSecurity and Gameplay programming
+* has extreme admiration for technology and science which is developed in the early years and eventually led into my favorite field
 * Spontaneously Respect and protect the voice of other values, and expect others to respect and protect my voice
 <!--* is transgender with undetermined gender and undetermined sexual orientation 🏳️‍⚧️ 🏳️‍🌈-->
 * is learning IoT security, penetration and UE5 developing
